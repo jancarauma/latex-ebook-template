@@ -87,4 +87,4 @@ cd latex-ebook-template
 [MIT License](LICENSE.md)
 
 ### 📝 Copyright
-2024 © Janderson Gomes | [Artientista Blog](https://artientista.blogspot.com) | [Caraumã Blog](https://Caraumã.blogspot.com)
+2024-2025 © Janderson Gomes | [Artientista Blog](https://artientista.blogspot.com) | [Caraumã Blog](https://Caraumã.blogspot.com)
