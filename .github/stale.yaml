@@ -1,0 +1,14 @@
+# .github/stale.yml
+# Fecha issues e PRs após 15 dias de inatividade
+daysUntilStale: 15
+daysUntilClose: 3
+onlyLabels:
+  - needs-response
+staleLabel: stale
+exemptLabels:
+  - pinned
+  - security
+markComment: >
+  This issue has been marked as stale due to inactivity. It will be closed in 3 days if no further activity occurs.
+closeComment: >
+  Closing this issue due to prolonged inactivity. Please feel free to reopen it if needed.
